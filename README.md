@@ -7,7 +7,7 @@ Este es uno de mis primeros proyectos (por no decir el primero) como ciencia de 
 - **`Analisis-Exploratorio-de-Datos-en-Python.ipynb`**: Un Jupyter Notebook con el análisis exploratorio de datos del dataset "Iris".
 - **`Iris.csv`**: El dataset "Iris" utilizado para el análisis.
 
-## ¿Cómo usar este repositorio?
+## ¿Cómo usar este repositorio?git 
    
 2. Asegúrate de tener instaladas las dependencias necesarias:
    ```bash
